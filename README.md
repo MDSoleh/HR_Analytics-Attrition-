@@ -23,5 +23,5 @@ Data Visualization and Reporting
 Attrition rate across departments was found to be 19%, 14% & 21% for HR, R&D and Sales departments respectively with overall retention period of 7 years for all the departments.
 Employee attrition count was highest for the age group of 26-35 years and also for the employees with salaries below five thousand.*
 
-
+![Screenshot 2024-07-25 005121](https://github.com/user-attachments/assets/d6682edf-e77b-4e43-9fff-2069e3d802d6)
 
